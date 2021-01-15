@@ -35,4 +35,4 @@ Sou desenvolvedor com 19 anos FullStack. Atualmente moro no estado de MG e traba
 ![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api?username=KoenomatachiSan&show_icons=true&theme=dracula)
 
 ## Minhas skills :
-[![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api/wakatime?username=KoenomatachiSan)](https://github.com/anuraghazra/github-readme-stats?layout=compact)
+[![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KoenomatachiSan&layout=compact)](https://github.com/KoenomatachiSan/github-readme-stats)
