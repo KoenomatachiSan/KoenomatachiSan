@@ -10,6 +10,13 @@ Sou desenvolvedor com 19 anos FullStack. Atualmente moro no estado de MG e traba
 * Colaborar para o máximo de repositórios Open-Source possivel.
 * E essa lista vem crescendo a cada dia mais! ⏭
  
+ 
+### Sobre meu perfil: 
+* Nunca navegue diretamente pelos repositórios.
+* TOdos os meus repositórios estão categorizados por linguagem e projeto neste link: https://github.com/KoenomatachiSan?tab=projects
+* Não esqueça de me seguir!
+* Nçao esqueça de apoiar os projetos open-source, o brasil precisa de mais visibilidade no mercado internacional.
+
  **Tecnologias dominadas:**
 <p align="left">
   <code><img src="https://user-images.githubusercontent.com/51785898/91357834-3eb8df00-e7c8-11ea-9936-0ce666ac2a11.png" alt="JS" width="40" height="40"/></code>&nbsp;
