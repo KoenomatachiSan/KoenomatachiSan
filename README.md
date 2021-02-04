@@ -17,7 +17,7 @@ Sou desenvolvedor, tenho 19 anos e sou FullStack. Atualmente moro no estado de M
 * Não esqueça de me seguir!🌟
 * Não esqueça de apoiar os projetos open-source, o brasil precisa de mais visibilidade no mercado internacional. 💝
  
-###🎉Linkedin 🎉
+### 🎉Linkedin 🎉
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-de-oliveira-rosa-916104199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Marcos Henrique" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
