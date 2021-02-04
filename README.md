@@ -1,4 +1,4 @@
-# Olá pessoal! 😀 
+# Olá visitante! Seja bem vindo.😀 
 
 ### Me chamo Koenomatachi San!
 
