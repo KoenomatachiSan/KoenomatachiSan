@@ -1,9 +1,9 @@
-# Olá para você que veio parar no meu Github!
+# Hello visitant!
 
-### Meu nome é Koenomatachi San!
+### My name is Koenomatachi San!
 
-### 💾 Sobre meu perfil 💾 : 
-* Nunca navegue diretamente pelos repositórios. ❌
-* Todos os meus repositórios estão categorizados por linguagem e projeto neste link: https://github.com/KoenomatachiSan?tab=projects ✔️
-* Não esqueça de me seguir!🌟
-* Não esqueça de apoiar os projetos open-source, o brasil precisa de mais visibilidade no mercado internacional. 💝
+### 💾 About my profile 💾 : 
+* Never browse the repositories directly. ❌
+* Every my repositorys they are categorized by language of programmation on this link: https://github.com/KoenomatachiSan?tab=projects ✔️
+* Do not forget follow me!🌟
+* Do not forget to support my open-source projects, the brazil need to international visibility. 💝
